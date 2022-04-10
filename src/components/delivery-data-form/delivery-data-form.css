@@ -1,0 +1,16 @@
+.btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 20px 46px;
+    border-radius: 2px;
+    font-size: 24px;
+    cursor: pointer;
+    background-color: #68bb5d;
+    color: white;
+    border: none;
+}
+
+.btn:hover {
+    opacity: 0.8;
+    font-weight: normal;
+}
